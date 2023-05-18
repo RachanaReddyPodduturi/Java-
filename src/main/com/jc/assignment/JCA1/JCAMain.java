@@ -49,7 +49,7 @@ public class JCAMain {
 
             List<Company> arraylist = new ArrayList<>();
             System.out.println("This is checked exception");
-            File file = new File("/Users/rachanareddy/Downloads/java-beginner-programs-7255d32151025a10a7582f82a97e20be17d32a8f/src/main/resources/companies.txt");
+            File file = new File("/Users/rachanareddy/IdeaProjects/Java-/src/main/resources/companies.txt");
             FileReader fi = new FileReader(file);
             BufferedReader br = new BufferedReader(fi);
             String line;

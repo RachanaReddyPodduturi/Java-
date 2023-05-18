@@ -1,7 +1,7 @@
 package test.com.jc.beginner.basics;
 
 import main.com.jc.beginner.basics.fundamentals.MyFirstClass;
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import static org.junit.Assert.assertEquals;
 
