@@ -1,0 +1,29 @@
+Note: Given a text file in csv format. Read the file and perform below operations.
+[companyName, ein,  noOfEmployees, address1, address2, address3, state, city, zip, ticker]
+
+1. Read the text file and print all the lines.
+
+2. Create classes as below
+ a. Address - ( address1, address2, address3, state, city, zip)
+ b. Company - (name, ein, noOfEmployess, Address, ticker)
+
+ Hint: Follow Inheritance
+
+3. Read text file and map it to above objects and store in List data structure
+Hint: List<Company>
+
+4. Get all companies that starts with A
+
+5. Get all companies where no of employees greater than 200000
+
+6. Get all companies in zip code: 50020
+
+7. Print all companies in the below format.
+   [companyName, ein, ticker]
+
+8. Print address of all companies in below format.
+   [companyName, address1, address2, address3, state, city, zip]
+
+9. Calculate total no of employees working in all companies
+
+10. Find the company with highest and lowest no of employees.

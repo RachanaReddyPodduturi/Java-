@@ -1,0 +1,28 @@
+Google, 1000100, 200500, GoogleAddress1, GoogleAddress2, GoogleAddress3, GoogleCity, GoogleState, 10001, GOOGL
+Nvidia, 1000195, 200075, NvidiaAddress1, NvidiaAddress2, NvidiaAddress3, NvidiaCity, NvidiaState, 10020, NVDA
+Meta, 1000130, 120000, MetaAddress1, MetaAddress2, MetaAddress3, MetaCity, MetaState, 10050, META
+Tesla, 1000075, 200060, TeslaAddress1, TeslaAddress2, TeslaAddress3, TeslaCity, TeslaState, 10040, TSLA
+Microsoft, 1000943, 300600, MicrosoftAddress1, MicrosoftAddress2, MicrosoftAddress3, MicrosoftCity, MicrosoftState, 20020, MSFT
+Apple, 1000804, 400600, AppleAddress1, AppleAddress2, AppleAddress3, AppleCity, AppleState, 30040, APPL
+Amazon, 1000870, 400800, AmazonAddress1, AmazonAddress2, AmazonAddress3, AmazonCity, AmazonState, 50020, AMZN
+UnitedHealth, 1000140, 100000, UnitedHealthAddress1, UnitedHealthAddress2, UnitedHealthAddress3, UnitedHealthCity, UnitedHealthState, 10012, UNH
+Salesforce, 1000540, 80000, SalesforceAddress1, SalesforceAddress2, SalesforceAddress3, SalesforceCity, SalesforceState, 10012, CRM
+Disney, 1000560, 200400, DisneyAddress1, DisneyAddress2, DisneyAddress3, DisneyCity, DisneyState, 50090, DIS
+Walmart, 1000580, 2000000, WalmartAddress1, WalmartAddress2, WalmartAddress3, WalmartCity, WalmartState, 75063, WMT
+Cisco, 1000600, 209050, CiscoAddress1, CiscoAddress2, CiscoAddress3, CiscoCity, CiscoState, 75030, CSCO
+JPMorgan, 1000605, 108900, JPMorganAddress1, JPMorganAddress2, JPMorganAddress3, JPMorganCity, JPMorganState, 80090, JPM
+Verizon, 1000160, 106500, VerizonAddress1, VerizonAddress2, VerizonAddress3, VerizonCity, VerizonState, 50020, VZ
+TMobile, 1000360, 250000, TMobileAddress1, TMobileAddress2, TMobileAddress3, TMobileCity, TMobileState, 50032, TMUS
+AT&T, 1000860, 200000, ATAddress1, ATAddress2, ATAddress3, ATCity, ATState, 70050, T
+Boeing, 1000190, 185000, BoeingAddress1, BoeingAddress2, BoeingAddress3, BoeingCity, BoeingState, 80034, BA
+Pfizer, 1000600, 70000, PfizerAddress1, PfizerAddress2, PfizerAddress3, PfizerCity, PfizerState, 10020, PFE
+CocaCola, 1000780, 286050, CocaColaAddress1, CocaColaAddress2, CocaColaAddress3, CocaColaCity, CocaColaState, 72045, COKE
+Zoom, 1000800, 290786, ZoomAddress1, ZoomAddress2, ZoomAddress3, ZoomCity, ZoomState, 72045, ZM
+Netflix, 1000820, 180600, NetflixAddress1, NetflixAddress2, NetflixAddress3, NetflixCity, NetflixState, 72004, NFLX
+Phillips, 1000220, 50800, PhillipsAddress1, PhillipsAddress2, PhillipsAddress3, PhillipsCity, PhillipsState, 10020, PSX
+UPS, 1000900, 109200, UPSAddress1, UPSAddress2, UPS Address3, UPS City,UPS State, 50020, UPS
+United Airlines, 300200, 2000000,United Airlines Address1, United Airlines Address2, United Airlines Address3, United Airlines City,United Airlines State, 32790, UAL
+Qualcomm, 1000240, 180180, Qualcomm Address1, Qualcomm Address2, Qualcomm Address3, Qualcomm City,Qualcomm State, 30902, QCOM
+
+
+
