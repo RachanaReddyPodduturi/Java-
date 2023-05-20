@@ -17,7 +17,7 @@ public class JCAMain {
             companiesStartWithA(arraylist);
             System.out.println(" ");
 
-            System.out.println("5. Get all companies where no of employees greater than 200000");
+            System.out.println("5. Get all companies where number of employees greater than 200000");
             companiesGreaterThan200000(arraylist);
             System.out.println(" ");
 
